@@ -4,7 +4,7 @@
     height: 100vh;
  
     text-align:center;
-    background-image: url("temprature app img url.jpg");
+    background-image: url("./temprature app img url.jpg");
     background-size: cover;
 }
 #cityInput{
